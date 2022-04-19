@@ -1,0 +1,32 @@
+h1 {
+    font-family: verdana;
+    font-size: 32pt;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 20px 10px 10px 10px;
+}
+
+#sky {
+    color: aqua;
+}
+
+h2 {
+    font-family: cursive;
+    font-size: 24pt;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 0px 10px 0px 10px;
+}
+
+h3 {
+    font-family: sans-serif;
+    font-size: 18pt;
+    background-color: powderblue;
+    text-align: end;
+    text-decoration: underline;
+    padding: 10px;
+    margin: 10px 10px 0px 10px;
+}
