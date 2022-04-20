@@ -1,0 +1,19 @@
+#find {
+    border-radius: 30px; /* Curve of border corners */
+    padding: 10px 50px 10px 50px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+#plus {
+    border-radius: 50%;
+    border: none;
+    padding: 10px 16px;
+    background-color: mediumspringgreen;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
