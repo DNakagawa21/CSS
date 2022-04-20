@@ -1,19 +1,33 @@
 #find {
     border-radius: 30px; /* Curve of border corners */
-    padding: 10px 50px 10px 50px;
-    margin-left: 50px;
-    margin-bottom: 10px;
+    border-color: rgb(17,155,157);
+    padding: 5px 47px 5px 47px;
+    color: rgb(17,155,157);
+    font-weight: bold;
+    margin-top: 20px;
 }
 
 #plus {
     border-radius: 50%;
     border: none;
-    padding: 10px 16px;
-    background-color: mediumspringgreen;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(0,209,178);
     color: white;
-    text-align: center;
-    font-size: 20px;
-    display: inline-block;
-    margin-left: 50px;
+    font-size: 30px;
+}
+
+#create {
+    padding: 5px 30px 5px 30px;
+    background-color: rgb(43,120,228);
+    color: white;
+    font-size: 14pt;
+    box-shadow: 4px 4px 0px black;
+    border: 2px black solid;
+}    
+
+input {
     margin-bottom: 10px;
+    margin-left: 50px;
+    display: block;
 }
